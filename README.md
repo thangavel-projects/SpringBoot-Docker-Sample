@@ -17,3 +17,4 @@
   ```
 
 Just hit browser using **localhost:8761** then you can see Eureka server up and running.  Hit **localhost:8761/greetings** for hello world message in browser.
+added
